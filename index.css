@@ -5,3 +5,9 @@ body{
     background-color: rgb(15, 0, 70);
 }
 
+.kartyak{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
